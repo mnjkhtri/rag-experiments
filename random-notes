@@ -1,0 +1,18 @@
+for both understanding and generation:
+
+retrievers:
+  - sparse: (word frequency, BM25, IF-IDF), sparse vectors
+  - dense: embeddings
+  - internet retrieval
+  - hybrid retrieval
+
+pre-ret:
+  - chunking, metadata, segmentation
+  - query rewriting, expansion
+
+post-ret
+  - re ranking
+  - context compression
+
+enchancement techniques:
+  - 
